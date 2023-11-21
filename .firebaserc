@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "postureflow-hallym",
+    "post": "postureflow-hallym"
+  },
+  "targets": {},
+  "etags": {}
+}
